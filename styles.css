@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+.funParagraph {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    font-family: fantasy;
+}
+
+.boxer-img {
+    padding-left: 175px;
+}
+
+article {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-right: 250px;
+}
+
+figure {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 150px;
+}
+
